@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Accord-piano/static/css/main.d01b3b71.chunk.css",
+    "main.js": "/Accord-piano/static/js/main.d9c57030.chunk.js",
+    "main.js.map": "/Accord-piano/static/js/main.d9c57030.chunk.js.map",
+    "runtime-main.js": "/Accord-piano/static/js/runtime-main.3e14ca8e.js",
+    "runtime-main.js.map": "/Accord-piano/static/js/runtime-main.3e14ca8e.js.map",
+    "static/js/2.d84eb3ca.chunk.js": "/Accord-piano/static/js/2.d84eb3ca.chunk.js",
+    "static/js/2.d84eb3ca.chunk.js.map": "/Accord-piano/static/js/2.d84eb3ca.chunk.js.map",
+    "index.html": "/Accord-piano/index.html",
+    "static/css/main.d01b3b71.chunk.css.map": "/Accord-piano/static/css/main.d01b3b71.chunk.css.map",
+    "static/js/2.d84eb3ca.chunk.js.LICENSE.txt": "/Accord-piano/static/js/2.d84eb3ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e14ca8e.js",
+    "static/js/2.d84eb3ca.chunk.js",
+    "static/css/main.d01b3b71.chunk.css",
+    "static/js/main.d9c57030.chunk.js"
+  ]
+}
